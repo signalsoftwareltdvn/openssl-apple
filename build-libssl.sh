@@ -38,7 +38,7 @@ xros-sim-cross-arm64 xros-cross-arm64
 TARGETS`
 
 # Minimum iOS/tvOS SDK version to build for
-IOS_MIN_SDK_VERSION="12.0"
+IOS_MIN_SDK_VERSION="15.0"
 MACOS_MIN_SDK_VERSION="10.14"
 CATALYST_MIN_SDK_VERSION="10.14"
 WATCHOS_MIN_SDK_VERSION="4.0"
